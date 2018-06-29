@@ -1,0 +1,5 @@
+D3,E,2C3 (z),3C'2,"linear,
+rotations",quadratic
+A1,1,1,1,,"x2+y2, z2"
+A2,1,1,-1,"z, Rz",
+E,2,-1,0,"(x, y) (Rx, Ry)","(x2-y2, xy) (xz, yz)"

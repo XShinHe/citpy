@@ -1,0 +1,21 @@
+C3h,E,C3(z),(C3)2,σh,S3,(S3)5,"linear functions,
+rotations","quadratic
+functions"
+A',1,1,1,1,1,1,Rz,"x2+y2, z2"
+E',"1
+1","e
+e*","e*
+e","1
+1","e
+e*","e*
+e","x+iy
+x-iy","(x2-y2, xy)"
+A'',1,1,1,-1,-1,-1,z,
+E'',"1
+1","e
+e*","e*
+e","-1
+-1","-e
+-e*","-e*
+-e","Rx+iRy
+Rx-iRy","(xz, yz)"

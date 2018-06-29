@@ -1,0 +1,4 @@
+Cs,E,σh,"linear,
+rotations",quadratic
+A',1,1,"x, y, Rz","x2, y2, z2, xy"
+A'',1,-1,"z, Rx, Ry","yz, xz"

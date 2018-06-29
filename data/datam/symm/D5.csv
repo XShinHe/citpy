@@ -1,0 +1,6 @@
+D5,E,2C5 (z),2(C5)2,5C'2,"linear,
+rotations",quadratic
+A1,1,1,1,1,,"x2+y2, z2"
+A2,1,1,1,-1,"z, Rz",
+E1,2,2cos(2π/5),2cos(4π/5),0,"(x, y) (Rx, Ry)","(xz, yz)"
+E2,2,2cos(4π/5),2cos(2π/5),0,,

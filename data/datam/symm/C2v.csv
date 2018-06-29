@@ -1,0 +1,6 @@
+C2v,E,C2 (z),σv(xz),σv(yz),"linear,
+rotations",quadratic
+A1,1,1,1,1,z,"x2, y2, z2"
+A2,1,1,-1,-1,Rz,xy
+B1,1,-1,1,-1,"x, Ry",xz
+B2,1,-1,-1,1,"y, Rx",yz

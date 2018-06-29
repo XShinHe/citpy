@@ -1,0 +1,8 @@
+D4,E,2C4 (z),C2 (z),2C'2,2C''2,"linear functions,
+rotations","quadratic
+functions"
+A1,1,1,1,1,1,,"x2+y2, z2"
+A2,1,1,1,-1,-1,"z, Rz",
+B1,1,-1,1,1,-1,,x2-y2
+B2,1,-1,1,-1,1,,xy
+E,2,0,-2,0,0,"(x, y) (Rx, Ry)","(xz, yz)"

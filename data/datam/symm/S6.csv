@@ -1,0 +1,20 @@
+S6,E,C3(z),(C3)2,i,(S6)5,S6,"linear,
+rotations",quadratic
+Ag,1,1,1,1,1,1,Rz,"x2+y2, z2"
+Eg,"1
+1","e
+e*","e*
+e","1
+1","e
+e*","e*
+e","Rx+iRy
+Rx-iRy","(x2-y2, xy) (xz, yz)"
+Au,1,1,1,-1,-1,-1,z,
+Eu,"1
+1","e
+e*","e*
+e","-1
+-1","-e
+-e*","-e*
+-e","x+iy
+x-iy",
