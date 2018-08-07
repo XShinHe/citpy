@@ -2,6 +2,7 @@
 **citpy** is abbrevation of "Chem Is Try in Python"
 
 \[ Initially, this program is just for adding smiles syntax (of chemical formula) extension of python  \]
+this project is with great ideal, but with less effort.  
 
 ## data base
 * subatom data
